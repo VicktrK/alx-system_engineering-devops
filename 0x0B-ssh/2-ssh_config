@@ -1,0 +1,4 @@
+# ssh config file
+Host 8.8.8.8
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school
